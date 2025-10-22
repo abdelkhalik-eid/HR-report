@@ -37,6 +37,10 @@ This dashboard allows tracking individual employee metrics over time.
 
 ### 📉 Attribution Dashboard
 ![Attribution Dashboard](./attribution.jpg)
+![overview](https://github.com/user-attachments/assets/89d5465f-73da-4278-886e-29835a5eea3e)
+![employee tracker](https://github.com/user-attachments/assets/3fb14d98-12ad-4e74-9038-5ae46050c597)
+![demographic](https://github.com/user-attachments/assets/e40bebde-d4cb-4bc3-beb7-f1fadd6b7769)
+![attribution](https://github.com/user-attachments/assets/e1eef93a-eb04-49f6-9d52-4d0e723b725b)
 
 Understand which factors contribute to employee attrition.
 
